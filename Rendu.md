@@ -9,10 +9,10 @@
   <td>client2</td><td>X</td><td>10.5.2.11</td><td>X</td>
   </tr>
   <tr>
-    <td>routeur1</td><td>10.5.1.254</td><td>X</td><td>10.5.12.254</td>
+    <td>routeur1</td><td>10.5.1.254</td><td>X</td><td>10.5.12.1</td>
   </tr>
   <tr>
-    <td>routeur2</td><td>X</td><td>10.5.2.254</td><td>10.5.21.254</td>
+    <td>routeur2</td><td>X</td><td>10.5.2.254</td><td>10.5.12.2</td> //mask 255.255.255.252"
   </tr>
   <tr>
     <td>serveur1</td><td>10.5.1.10</td><td>X</td><td>X</td>
