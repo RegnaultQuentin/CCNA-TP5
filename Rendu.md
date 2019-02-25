@@ -26,10 +26,10 @@
 <h2>IPs VMs</h2>
 Ip seveur1
 ```
- inet 10.5.1.10/24 brd 10.5.1.255 scope global noprefixroute enp0s3
-
+inet 10.5.1.10/24 brd 10.5.1.255 scope global noprefixroute enp0s3
 ```
 Fichier hots
+
 ```
 route 10.5.2.0/24 via 10.5.1.254 dev enp0s3
 hosts
