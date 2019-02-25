@@ -1,3 +1,7 @@
+<h1>Rendu Tp5</h1>
+
+
+<h3>Tableau des adresses ip</h3>
 <table>
   <tr>
     <td>Machine</td><td>net1</td><td>net2</td><td>net12</td>
