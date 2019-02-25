@@ -84,11 +84,11 @@ Ethernet0/0                10.5.12.2       YES NVRAM  up                    up
 Ethernet0/1                10.5.2.254      YES NVRAM  up                    up
 Ethernet0/2                unassigned      YES NVRAM  administratively down down
 Ethernet0/3                unassigned      YES NVRAM  administratively down down
-
 ```
 
 <h2>Ping</h2>
 Ping client1 => serveur1 et retour
+
 ```
 [root@client1 oui]$ ping server1
 PING server1 (10.5.1.10) 56(84) bytes of data.
@@ -100,6 +100,7 @@ PING client1 (10.5.1.10) 56(84) bytes of data.
 ```
 
 Ping client2 => serveur1 et retour
+
 ```
 [root@client2 oui]$ ping server1
 PING server1 (10.5.1.10) 56(84) bytes of data.
